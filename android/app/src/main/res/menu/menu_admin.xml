@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/nav_painel" android:icon="@drawable/ic_dashboard" android:title="@string/nav_painel" />
-    <item android:id="@+id/nav_servicos" android:icon="@drawable/ic_cut" android:title="@string/nav_servicos" />
-    <item android:id="@+id/nav_equipe" android:icon="@drawable/ic_group" android:title="@string/nav_equipe" />
-    <item android:id="@+id/nav_notif" android:icon="@drawable/ic_bell" android:title="@string/nav_avisos" />
-    <item android:id="@+id/nav_perfil" android:icon="@drawable/ic_person" android:title="@string/nav_perfil" />
-</menu>
